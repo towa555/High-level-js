@@ -1,0 +1,9 @@
+.changecolor{
+    color: lightblue;
+    font-weight: bold;
+    font-size:50px;
+    border:1px solid black;
+    transition: 1s;
+    border-radius: 8px;
+    
+}
